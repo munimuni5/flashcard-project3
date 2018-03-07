@@ -1,4 +1,4 @@
-# {FlashDash}
+# {FlashStash}
 Never forget anything! Organize your much needed study materials into virtual flashcards and drop your paper counterparts behind.  
  
 
